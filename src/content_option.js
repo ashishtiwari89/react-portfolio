@@ -9,7 +9,7 @@ const introdata = {
     animated: {
         first: "I am a Full Stack Software Engineer & Web Application Developer",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "With more then a decade of work experience in developing enterprise solutions for small and medium-sized businesses. Passionate about building high-quality software solutions that exceed client expectations and drive business results.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
