@@ -15,7 +15,7 @@ const introdata = {
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "and more than 10 years of work experience in developing enterprise solutions for small and medium-sized businesses. Passionate about building high-quality software solutions that exceed client expectations and drive business results.",
 };
 const worktimeline = [{
         jobtitle: "Designer of week",
