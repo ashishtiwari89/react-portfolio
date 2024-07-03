@@ -9,13 +9,13 @@ const introdata = {
     animated: {
         first: "I am a Full Stack Software Engineer & Web Application Developer",
     },
-    description: "With more then a decade of work experience in developing enterprise solutions for small and medium-sized businesses. Passionate about building high-quality software solutions that exceed client expectations and drive business results.",
+    description: "With over a decade of work experience in developing enterprise solutions for small and medium-sized businesses. Passionate about building high-quality software solutions that exceed client expectations and drive business results.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "and more than 10 years of work experience in developing enterprise solutions for small and medium-sized businesses. Passionate about building high-quality software solutions that exceed client expectations and drive business results.",
+    aboutme: "With over a decade of work experience in developing enterprise solutions for small and medium-sized businesses. Passionate about building high-quality software solutions that exceed client expectations and drive business results.",
 };
 const worktimeline = [{
         jobtitle: "Designer of week",
