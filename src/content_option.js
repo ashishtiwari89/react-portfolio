@@ -7,9 +7,7 @@ const meta = {
 const introdata = {
     title: "I’m Ashish Tiwari",
     animated: {
-        first: "I am a Website Developer & Software Engineer",
-        second: "I love to develop beautiful websites",
-        third: "I am a Frontend Developer with 10 years of work experience",
+        first: "I am a Full Stack Software Engineer & Web Application Developer",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
